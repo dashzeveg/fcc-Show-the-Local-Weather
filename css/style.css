@@ -1,0 +1,46 @@
+.col-centered {
+    float: none;
+    margin: 0 auto;
+}
+
+.wTitle {
+  margin-top: 100px;
+  font-size: 36px;
+  font-weight: bold;
+}
+
+.wMain {
+  font-family: Tahoma;
+  color: #fff;
+  background-color: #2ecc71;
+  padding: 10px;
+}
+
+.wLocation {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+#changeUnit {
+  font-weight: normal;
+  color: #337ab7;
+}
+
+#changeUnit:hover {
+  cursor: pointer;
+}
+
+.wTemperature {
+  font-size: 400%;
+  font-weight: normal;
+}
+
+.wImage {
+  font-size: 400%;
+  font-weight: normal;
+}
+
+.wText {
+  
+}
+
